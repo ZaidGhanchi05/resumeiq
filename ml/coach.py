@@ -183,7 +183,9 @@ class CoachService:
         gap = self.an.skill_gap(resume, jd); hl = self._highlights(resume, jd)
         matched = ", ".join(gap["matched"][:6]) or "the core skills listed in the posting"
         miss = [m["skill"] for m in gap["missing"][:3]]
-        body = [f"Dear Hiring Manager,", f"I am writing to apply for {role} at {company}. {('The posting\'s emphasis on ' + ', '.join(gap['matched'][:4]) + ' matches the work I have been doing.') if gap['matched'] else 'I believe my project experience is a good fit for the responsibilities described.'}",
+        emphasis = ("The posting's emphasis on " + ", ".join(gap["matched"][:4]) + " matches the work I have been doing.") if gap["matched"] \
+            else "I believe my project experience is a good fit for the responsibilities described."
+        body = ["Dear Hiring Manager,", f"I am writing to apply for {role} at {company}. {emphasis}",
                 f"My background includes hands-on experience with {matched}." + (" Highlights from my resume: " + " ".join(f"\"{(h[:200].rstrip() + '...') if len(h) > 200 else h.rstrip('.') + '.'}\"" for h in hl) if hl else ""),
                 ("I am also keen to build depth in " + ", ".join(miss) + ", and I learn new tools quickly by shipping projects." if miss else "I enjoy turning requirements into working, tested software and would welcome the chance to contribute."),
                 f"Thank you for your time and consideration.\n\nSincerely,\n{name or '[Your name]'}"]
