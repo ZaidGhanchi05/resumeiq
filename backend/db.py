@@ -10,7 +10,9 @@ ROOT = Path(__file__).resolve().parent.parent
 
 def _url() -> str:
     url = os.getenv("DATABASE_URL") or f"sqlite:///{ROOT / 'data' / 'app.db'}"
-    return url.replace("postgres://", "postgresql://", 1)          # some hosts still hand out the old scheme
+    for old in ("postgres://", "postgresql://"):                    # hosts hand out either scheme; use the psycopg 3 driver
+        if url.startswith(old): return "postgresql+psycopg://" + url[len(old):]
+    return url
 
 
 URL = _url()
