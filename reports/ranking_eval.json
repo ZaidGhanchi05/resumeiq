@@ -1,0 +1,35 @@
+{
+ "chosen_skill_weight": 0.1,
+ "validation_hit@3_by_weight": {
+  "0": 0.7233,
+  "0.1": 0.7233,
+  "0.2": 0.6733,
+  "0.3": 0.6433,
+  "0.4": 0.6067,
+  "0.5": 0.6,
+  "0.7": 0.59,
+  "1.0": 0.5633
+ },
+ "test": {
+  "embedding_only(w=0)": {
+   "hit@1": 0.515,
+   "hit@3": 0.7413,
+   "MRR": 0.6189
+  },
+  "final(chosen w)": {
+   "hit@1": 0.5104,
+   "hit@3": 0.739,
+   "MRR": 0.6116
+  },
+  "old_50_50_blend": {
+   "hit@1": 0.3926,
+   "hit@3": 0.6282,
+   "MRR": 0.4958
+  },
+  "random_baseline_hit@3": 0.1461
+ },
+ "n_test_resumes": 433,
+ "n_val_resumes": 300,
+ "n_jobs": 30,
+ "embedder": "lsa-128"
+}

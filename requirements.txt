@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+python-multipart
+httpx
+python-dotenv
+scikit-learn
+xgboost
+pandas
+numpy
+scipy
+joblib
+pypdf
+python-docx
+chromadb
+sqlalchemy
+pyjwt

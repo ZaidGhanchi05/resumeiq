@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.venv/
+venv/
+
+# Environment
+.env
+.env.*
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# Data / DB
+data/raw/
+data/processed/
+data/app.db
+data/chroma/
+
+# OS
+.DS_Store
+Thumbs.db

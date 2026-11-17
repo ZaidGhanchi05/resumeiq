@@ -1,0 +1,272 @@
+[
+ {
+  "id": "seed-01",
+  "title": "AI/ML Intern",
+  "company": "Nimbus AI Labs",
+  "location": "Pune",
+  "category": "INFORMATION-TECHNOLOGY",
+  "description": "Work on machine learning and generative AI features. Clean and analyse data with Python, Pandas and NumPy, build and evaluate models with scikit-learn, develop RAG pipelines with vector databases, and expose models through FastAPI. Requires classification, regression, clustering, SQL, Git and Jupyter. PyTorch, LangChain or Hugging Face a plus.",
+  "source": "seed"
+ },
+ {
+  "id": "seed-02",
+  "title": "Data Analyst Intern",
+  "company": "Orbit Analytics",
+  "location": "Remote",
+  "category": "INFORMATION-TECHNOLOGY",
+  "description": "Analyse business data with SQL and Python, build dashboards in Power BI or Tableau, create charts with Matplotlib and Seaborn, clean datasets with Pandas and present insights to stakeholders. Strong Excel and statistics fundamentals expected.",
+  "source": "seed"
+ },
+ {
+  "id": "seed-03",
+  "title": "Python Backend Developer",
+  "company": "Cobalt Systems",
+  "location": "Bengaluru",
+  "category": "INFORMATION-TECHNOLOGY",
+  "description": "Design and build REST APIs with FastAPI, Flask or Django. Work with PostgreSQL, Redis and Docker, write unit tests with pytest, deploy services on AWS and use Git, CI/CD and code reviews. Experience with microservices and SQL optimisation preferred.",
+  "source": "seed"
+ },
+ {
+  "id": "seed-04",
+  "title": "Full-Stack Developer (React and Node)",
+  "company": "Pixel Forge",
+  "location": "Ahmedabad",
+  "category": "INFORMATION-TECHNOLOGY",
+  "description": "Build responsive web applications using React, JavaScript, HTML, CSS and Tailwind with Node.js, Express and MongoDB backends. Integrate REST APIs, manage state, write clean reusable components and collaborate through Git and GitHub.",
+  "source": "seed"
+ },
+ {
+  "id": "seed-05",
+  "title": "Data Scientist",
+  "company": "Quantal Insights",
+  "location": "Mumbai",
+  "category": "INFORMATION-TECHNOLOGY",
+  "description": "Develop predictive models with Python, scikit-learn, XGBoost and TensorFlow. Perform feature engineering, A/B testing and model evaluation, work with SQL and big datasets, communicate results with Matplotlib and Seaborn, and deploy models via APIs. NLP and deep learning experience valued.",
+  "source": "seed"
+ },
+ {
+  "id": "seed-06",
+  "title": "DevOps Engineer",
+  "company": "CloudNest",
+  "location": "Hyderabad",
+  "category": "INFORMATION-TECHNOLOGY",
+  "description": "Automate infrastructure with Docker, Kubernetes, Terraform and Jenkins. Maintain CI/CD pipelines on AWS, monitor systems with Prometheus and Grafana, manage Linux servers, write shell scripts and support production releases.",
+  "source": "seed"
+ },
+ {
+  "id": "seed-07",
+  "title": "QA Automation Engineer",
+  "company": "TestRight Labs",
+  "location": "Chennai",
+  "category": "INFORMATION-TECHNOLOGY",
+  "description": "Create automated test suites with Selenium, Python and pytest, test REST APIs with Postman, track bugs in Jira, run regression and performance tests, and integrate automation into CI pipelines with Git and Jenkins.",
+  "source": "seed"
+ },
+ {
+  "id": "seed-08",
+  "title": "Android Developer",
+  "company": "Appvana",
+  "location": "Pune",
+  "category": "INFORMATION-TECHNOLOGY",
+  "description": "Build native Android applications using Kotlin and Java, Jetpack components, Retrofit and Room. Integrate Firebase, follow MVVM architecture, publish apps to the Play Store and collaborate with designers on smooth user interfaces.",
+  "source": "seed"
+ },
+ {
+  "id": "seed-09",
+  "title": "Cybersecurity Analyst",
+  "company": "Sentinel Secure",
+  "location": "Gurugram",
+  "category": "INFORMATION-TECHNOLOGY",
+  "description": "Monitor networks for threats, perform vulnerability assessments and penetration testing, manage SIEM alerts, respond to incidents, harden Linux systems and write security reports. Knowledge of firewalls, TCP/IP, OWASP and Python scripting required.",
+  "source": "seed"
+ },
+ {
+  "id": "seed-10",
+  "title": "Mechanical Design Engineer",
+  "company": "Ferrous Works",
+  "location": "Pune",
+  "category": "ENGINEERING",
+  "description": "Design mechanical components and assemblies in SolidWorks and AutoCAD, prepare drawings and BOMs, perform stress and tolerance analysis, coordinate with manufacturing and support prototype testing and product improvements.",
+  "source": "seed"
+ },
+ {
+  "id": "seed-11",
+  "title": "Electrical Maintenance Engineer",
+  "company": "VoltEdge Industries",
+  "location": "Vadodara",
+  "category": "ENGINEERING",
+  "description": "Maintain plant electrical systems, panels, motors and PLC controls, perform preventive maintenance, troubleshoot faults, follow safety standards, and manage maintenance schedules and spare parts inventory.",
+  "source": "seed"
+ },
+ {
+  "id": "seed-12",
+  "title": "HR Executive",
+  "company": "PeopleFirst Consulting",
+  "location": "Ahmedabad",
+  "category": "HR",
+  "description": "Manage employee onboarding, payroll inputs, attendance and HRIS records, handle employee queries, support performance reviews, ensure policy and statutory compliance, and coordinate training and engagement activities.",
+  "source": "seed"
+ },
+ {
+  "id": "seed-13",
+  "title": "Talent Acquisition Specialist",
+  "company": "HireBridge",
+  "location": "Remote",
+  "category": "HR",
+  "description": "Source and screen candidates, post jobs, run interviews and coordinate hiring managers, maintain applicant tracking systems, build talent pipelines through LinkedIn and referrals, and reduce time-to-hire.",
+  "source": "seed"
+ },
+ {
+  "id": "seed-14",
+  "title": "Financial Analyst",
+  "company": "Ledgerline Capital",
+  "location": "Mumbai",
+  "category": "FINANCE",
+  "description": "Build financial models in Excel, prepare budgets and forecasts, analyse variances, support investment decisions, produce monthly management reports and work with accounting teams on month-end close.",
+  "source": "seed"
+ },
+ {
+  "id": "seed-15",
+  "title": "Staff Accountant",
+  "company": "Balance and Co",
+  "location": "Surat",
+  "category": "ACCOUNTANT",
+  "description": "Maintain general ledger, reconcile bank statements, process accounts payable and receivable, handle GST and TDS filings with Tally, prepare trial balances and support audits.",
+  "source": "seed"
+ },
+ {
+  "id": "seed-16",
+  "title": "Relationship Manager (Banking)",
+  "company": "Meridian Bank",
+  "location": "Ahmedabad",
+  "category": "BANKING",
+  "description": "Acquire and manage retail banking customers, cross-sell loans, deposits and insurance, meet sales targets, ensure KYC compliance and resolve customer service issues.",
+  "source": "seed"
+ },
+ {
+  "id": "seed-17",
+  "title": "Sales Executive (B2B)",
+  "company": "Growthly",
+  "location": "Delhi",
+  "category": "SALES",
+  "description": "Generate leads, run product demos, negotiate and close B2B deals, manage a pipeline in CRM, meet monthly revenue targets and maintain long-term client relationships.",
+  "source": "seed"
+ },
+ {
+  "id": "seed-18",
+  "title": "Business Development Manager",
+  "company": "Vantage Ventures",
+  "location": "Bengaluru",
+  "category": "BUSINESS-DEVELOPMENT",
+  "description": "Identify new markets and partnerships, build proposals and pitch decks, lead negotiations, track KPIs and work with product and marketing teams to expand revenue.",
+  "source": "seed"
+ },
+ {
+  "id": "seed-19",
+  "title": "UI/UX Designer",
+  "company": "Pixel Forge",
+  "location": "Remote",
+  "category": "DESIGNER",
+  "description": "Create wireframes, prototypes and design systems in Figma, run user research and usability tests, collaborate with developers, and design accessible, consistent interfaces for web and mobile apps.",
+  "source": "seed"
+ },
+ {
+  "id": "seed-20",
+  "title": "Graphic Designer",
+  "company": "Brandwave Studio",
+  "location": "Mumbai",
+  "category": "DESIGNER",
+  "description": "Design logos, social media creatives, brochures and packaging using Photoshop, Illustrator and InDesign, follow brand guidelines, manage multiple deadlines and incorporate client feedback.",
+  "source": "seed"
+ },
+ {
+  "id": "seed-21",
+  "title": "Digital Marketing Executive",
+  "company": "Reachly",
+  "location": "Ahmedabad",
+  "category": "DIGITAL-MEDIA",
+  "description": "Plan and run SEO, Google Ads and social media campaigns, write content, track analytics in Google Analytics, manage email marketing and report on conversions and ROI.",
+  "source": "seed"
+ },
+ {
+  "id": "seed-22",
+  "title": "Staff Nurse",
+  "company": "CareWell Hospital",
+  "location": "Pune",
+  "category": "HEALTHCARE",
+  "description": "Provide patient care, administer medications, monitor vital signs, maintain medical records, assist doctors, follow infection control protocols and support patients and families.",
+  "source": "seed"
+ },
+ {
+  "id": "seed-23",
+  "title": "Primary School Teacher",
+  "company": "Bright Minds School",
+  "location": "Jaipur",
+  "category": "TEACHER",
+  "description": "Plan and deliver engaging lessons, assess student progress, manage the classroom, communicate with parents, create learning materials and support children's social and academic development.",
+  "source": "seed"
+ },
+ {
+  "id": "seed-24",
+  "title": "Sous Chef",
+  "company": "Saffron Table",
+  "location": "Goa",
+  "category": "CHEF",
+  "description": "Assist the head chef in running the kitchen, prepare and plate dishes, manage prep stations and inventory, train line cooks, enforce food safety and hygiene and help design seasonal menus.",
+  "source": "seed"
+ },
+ {
+  "id": "seed-25",
+  "title": "Site Engineer (Civil)",
+  "company": "BuildRight Infra",
+  "location": "Surat",
+  "category": "CONSTRUCTION",
+  "description": "Supervise construction activities on site, read structural drawings, manage contractors and labour, monitor quality and safety, prepare progress reports and quantity estimates with AutoCAD and MS Project.",
+  "source": "seed"
+ },
+ {
+  "id": "seed-26",
+  "title": "PR Associate",
+  "company": "Narrative Communications",
+  "location": "Mumbai",
+  "category": "PUBLIC-RELATIONS",
+  "description": "Write press releases, pitch journalists, manage media relations and events, monitor coverage, support crisis communication and maintain brand reputation across channels.",
+  "source": "seed"
+ },
+ {
+  "id": "seed-27",
+  "title": "Legal Associate",
+  "company": "Lex Partners",
+  "location": "Delhi",
+  "category": "ADVOCATE",
+  "description": "Draft and review contracts, conduct legal research, support litigation and compliance work, prepare case briefs, advise clients and coordinate with courts and regulatory authorities.",
+  "source": "seed"
+ },
+ {
+  "id": "seed-28",
+  "title": "Fitness Trainer",
+  "company": "PulseFit",
+  "location": "Bengaluru",
+  "category": "FITNESS",
+  "description": "Design personalised workout and nutrition plans, train members in strength and conditioning, track progress, ensure safe technique, lead group classes and promote healthy lifestyles.",
+  "source": "seed"
+ },
+ {
+  "id": "seed-29",
+  "title": "Aviation Operations Executive",
+  "company": "SkyLink Airways",
+  "location": "Mumbai",
+  "category": "AVIATION",
+  "description": "Coordinate flight operations and ground handling, manage crew schedules, ensure safety and regulatory compliance, handle passenger service issues and support on-time performance.",
+  "source": "seed"
+ },
+ {
+  "id": "seed-30",
+  "title": "Management Consultant",
+  "company": "Axis Advisory",
+  "location": "Gurugram",
+  "category": "CONSULTANT",
+  "description": "Analyse client problems, build data-driven recommendations, create presentations, run workshops, manage project workstreams and support clients through strategy and operations improvement.",
+  "source": "seed"
+ }
+]

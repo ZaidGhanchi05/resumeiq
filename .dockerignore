@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+frontend/
+data/raw/
+data/processed/
+__pycache__/
+.pytest_cache/
+data/chroma/
+data/app.db
+tests/
+notebooks/
